@@ -1,4 +1,3 @@
 # Coursera-IBM-Data-Science-Project
-This repository is data science related.
+This repository is IBM data science Final project from Coursera.
 
-1.Coursera IBM Data Science Final Capstone Project
